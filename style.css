@@ -1,0 +1,99 @@
+.navbar-brand {
+    background-color: rgb(106, 206, 151);
+    font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    border: 2px solid rgb(182, 182, 182);
+    border-radius: 3px;
+    margin-left: 20px;
+    font-size: 20px; 
+}
+.navbar {
+    background-color: rgb(182, 182, 182);
+    border: 3px solid rgb(106, 206, 151);
+}
+.dropdown {
+    font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+.navbar-collapse {
+    font-size: 15px;
+    font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+body {
+    background-color: rgb(235, 235, 235);
+    background-image: url("http://getwallpapers.com/wallpaper/full/1/0/b/453193.jpg");
+}
+p {
+    font-size: 17px;
+    padding: 10px 10px 10px 10px;
+    font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: #6D8092;
+}
+h1 {
+    margin-left: 10px;
+    font-size: 40px;
+    font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: rgb(106, 206, 151);
+}
+h3 {
+    font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;;
+    color: rgb(106, 206, 151);
+}
+h4 {
+    text-align: center;
+    font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: rgb(106, 206, 151);
+    font-size: 25px;
+
+}
+img {
+    padding: 5px 5px 5px 5px
+}
+footer { 
+    font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px; 
+    background-color: rgb(104, 104, 104); 
+    border: 3px solid rgb(106, 206, 151);
+    color: rgb(106, 206, 151); 
+    min-height: 30px; 
+    text-align: center; 
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 5px; 
+}
+.text {
+    margin: 17px;
+    font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: #6D8092
+}
+.nav {
+    margin-right: 25px
+}
+.container-fluid {
+    margin-left: -20px;
+    margin-right: -20px;
+}
+#box {
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: white;
+}  
+#selected {
+    border: 2px solid rgb(106, 206, 151);
+    border-radius: 2px;
+}
+#headtext{
+    font-family: "Montserrat", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+#datatable {
+    border: 20px solid white;
+    border-radius: 10px;
+    background-color: white;
+    margin:20px;
+}
+#homebutton {
+    color:rgb(255, 255, 255);
+}
